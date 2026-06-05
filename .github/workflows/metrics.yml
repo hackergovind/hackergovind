@@ -1,0 +1,162 @@
+# 🌱 GitHub Metrics Workflow for hackergovind
+# Uses lowlighter/metrics to generate beautiful SVG stats
+# Docs: https://github.com/lowlighter/metrics
+
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]  # Runs daily at midnight UTC
+  workflow_dispatch:  # Manual trigger
+  push: {branches: ["main"]}
+
+jobs:
+
+  # ===== HEADER METRICS =====
+  header:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hackergovind
+          template: classic
+          base: header
+          config_timezone: Asia/Kolkata
+
+  # ===== REPOSITORIES & ACTIVITY =====
+  repositories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hackergovind
+          template: classic
+          base: repositories
+          config_timezone: Asia/Kolkata
+
+  # ===== ACHIEVEMENTS =====
+  achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hackergovind
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          config_timezone: Asia/Kolkata
+
+  # ===== LANGUAGES =====
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hackergovind
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 10
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          config_timezone: Asia/Kolkata
+
+  # ===== ISOMETRIC CALENDAR =====
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hackergovind
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+  # ===== CODING HABITS =====
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hackergovind
+          template: classic
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          config_timezone: Asia/Kolkata
+
+  # ===== LINES OF CODE =====
+  lines:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hackergovind
+          template: classic
+          base: ""
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          config_timezone: Asia/Kolkata
+
+  # ===== STARRED TOPICS =====
+  topics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hackergovind
+          template: classic
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+          config_timezone: Asia/Kolkata
