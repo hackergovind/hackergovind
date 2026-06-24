@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=70&lines=Govind+Pratap+Singh;Cybersecurity+Engineer;Offensive+%2B+Defensive+Security;CVE+Author+%7C+NASA+Hall+of+Fame;Threat+Intelligence+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=70&lines=Govind+Pratap+Singh;Cybersecurity+Engineer;Offensive+%2B+Defensive+Security;CVE+Author+%7C+NASA+Hall+of+Fame;Developer" alt="Typing SVG" />
 
 <!-- Hacker-style animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=120&section=header&text=&animation=twinkling" />
