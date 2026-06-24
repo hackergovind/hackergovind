@@ -1,346 +1,242 @@
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   ███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗        ║
-║   ██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝        ║
-║   ███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝         ║
-║   ╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝          ║
-║   ███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║           ║
-║   ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝           ║
-║                                                                            ║
-║              🛡️  Offensive | Defensive | Threat Intelligence  🛡️          ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-### 🔐 Govind Pratap Singh | Cybersecurity Professional
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=70&lines=Govind+Pratap+Singh;Cybersecurity+Engineer;Offensive+%2B+Defensive+Security;CVE+Author+%7C+NASA+Hall+of+Fame;Threat+Intelligence+Builder" alt="Typing SVG" />
 
-**Certified Ethical Hacker | Threat Intelligence Specialist | Penetration Tester | Developer**
+<!-- Hacker-style animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=120&section=header&text=&animation=twinkling" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=hackergovind&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/hackergovind?style=social)
+<!-- Status badges -->
+<a href="https://www.linkedin.com/in/govindpratapsingh404/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@hackergovind"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:govindsinghpratap123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://cve-radar.nx.kg/"><img src="https://img.shields.io/badge/CVE%20Radar-FF0000?style=for-the-badge&logo=radar&logoColor=white" /></a>
 
----
+<br/>
 
-### 🏆 **CERTIFICATIONS & CREDENTIALS**
-
-| 🎓 Certification | 📊 Status | ⏰ Year |
-|---|---|---|
-| **eJPT** (eLearnSecurity Junior Penetration Tester) | ✅ Certified | 2025 |
-| **CRTA** (Certified Red Team Associate) | ✅ Certified | 2025 |
-| **ICCA** (International Cybersecurity Certification Academy) | ✅ Certified | 2026 |
-| **Google Cyber Security Certificate** | ✅ Certified | 2025 |
-| **SEC+** (CompTIA Security+) | 🔄 Ongoing | 2026 |
-| **PNPT** (Practical Network Penetration Tester) | 🔄 Ongoing | 2026 |
-
-<br>
-
-### 🎖️ **HALL OF FAME & RECOGNITION**
-
-```
-████████████████████████████████████████ 100%
-
-🌟 NASA Hall of Fame Holder
-🔍 CVE Discoverer - CVE-2025-61246 Author & Finder
-🎯 Threat Intelligence Researcher
-```
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=govindpratapsingh404&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/govindpratapsingh404?label=Followers&style=social)](https://github.com/govindpratapsingh404)
 
 </div>
 
-## 🚀 **ABOUT ME**
+---
 
-Passionate cybersecurity professional with expertise in **offensive security**, **defensive strategies**, and **threat intelligence**. Currently holding recognition in NASA's Hall of Fame and actively contributing to the cybersecurity community through vulnerability research and threat intelligence automation.
+<img align="right" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98079e9a5cc5b0c13d82e9a72/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-As a certified ethical hacker and red team associate, I specialize in identifying and mitigating security vulnerabilities while developing sophisticated threat detection systems. My approach combines practical penetration testing skills with advanced threat intelligence capabilities.
+## `whoami`
+
+```bash
+┌──(govind㉿hacker)-[~]
+└─$ cat about.txt
+
+Name     : Govind Pratap Singh
+Role     : Cybersecurity Engineer
+Focus    : Offensive + Defensive Security
+Status   : Open to Opportunities 🟢
+Location : India
+```
+
+- 🏆 **NASA Hall of Fame** holder
+- 🔴 **CVE-2025-61246** — Author & Finder
+- 🛡️ Built **[CVE Radar](https://cve-radar.nx.kg/)** — Real-time Threat Intelligence Platform
+- ⚔️ Skilled in both **Offensive** and **Defensive** security
+- 📝 Writing about security on **[Medium](https://medium.com/@hackergovind)**
+- 🎯 Currently pursuing **PNPT** & **SEC+**
 
 ---
 
-## 🛠️ **CORE COMPETENCIES**
-
-### 🔴 **OFFENSIVE SECURITY**
-```
-Penetration Testing      ████████████████░░ 90%
-Vulnerability Assessment ████████████████░░ 88%
-Exploit Development      ███████████████░░░ 82%
-Social Engineering       █████████████░░░░░ 75%
-Network Penetration      ████████████████░░ 87%
-Web Application Testing  ████████████████░░ 89%
-```
-
-### 🔵 **DEFENSIVE SECURITY**
-```
-Incident Response        ████████████████░░ 86%
-Threat Hunting          ██████████████░░░░ 80%
-Security Monitoring     ████████████████░░ 85%
-Malware Analysis        █████████████░░░░░ 75%
-Network Defense         ████████████████░░ 87%
-Security Architecture   █████████████░░░░░ 78%
-```
-
-### 📊 **THREAT INTELLIGENCE**
-```
-CVE Research & Analysis ████████████████░░ 89%
-Threat Modeling         █████████████░░░░░ 78%
-Intelligence Gathering  ████████████████░░ 86%
-Vulnerability Assessment████████████████░░ 88%
-OSINT Techniques        ████████████████░░ 87%
-Indicator Analysis      █████████████░░░░░ 82%
-```
-
----
-
-## 💻 **TECHNICAL SKILLS**
+## 🏅 Certifications
 
 <div align="center">
 
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Certification | Issuer | Status |
+|:---:|:---:|:---:|
+| ![eJPT](https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=) **eJPT** | eLearnSecurity | ✅ Completed |
+| 🛡️ **CRTA** | Certified Red Team Analyst | ✅ Completed |
+| 🌐 **ICCA** | INE Certified Cloud Associate | ✅ Completed |
+| ![Google](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white) | Google / Coursera | ✅ Completed |
+| ⚔️ **SEC+** | CompTIA Security+ | 🔄 Ongoing |
+| 🔴 **PNPT** | TCM Security | 🔄 Ongoing |
 
-### **DevOps & Infrastructure**
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🚀 NASA Hall of Fame
+```
+Recognition by NASA for responsible
+disclosure of security vulnerability.
+Hall of Fame: NASA Cybersecurity
+```
+![NASA](https://img.shields.io/badge/NASA-Hall_of_Fame-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🔴 CVE-2025-61246
+```
+Official CVE authored and discovered
+by Govind Pratap Singh.
+Published on NVD / MITRE
+```
+![CVE](https://img.shields.io/badge/CVE--2025--61246-Author-critical?style=for-the-badge&logo=cve&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Project — CVE Radar
+
+<div align="center">
+
+[![CVE Radar](https://img.shields.io/badge/🛰️_CVE_RADAR-Live_Threat_Intelligence-00FF41?style=for-the-badge)](https://cve-radar.nx.kg/)
+
+</div>
+
+> **Real-time CVE Monitoring & Threat Intelligence Platform**
+
+```
+🔗 https://cve-radar.nx.kg/
+```
+
+| Feature | Description |
+|---|---|
+| 📡 **Live CVE Feed** | Fetches latest CVEs directly from NVD (nvd.nist.gov) |
+| 🤖 **AI Summarization** | Auto-generates TL;DR for every new CVE |
+| 📲 **Multi-channel Alerts** | Instant notifications via Telegram, WhatsApp & Slack |
+| 🔍 **Smart Filtering** | Filter by severity, vendor, product & CVSS score |
+| 🗄️ **Threat Database** | Searchable CVE archive with historical data |
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![NVD API](https://img.shields.io/badge/NVD_API-NIST-blue?style=flat)
+![AI](https://img.shields.io/badge/AI-Powered-00FF41?style=flat)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
+---
+
+## ⚔️ Skills Arsenal
+
+<div align="center">
+
+### 🔴 Offensive Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=database&logoColor=white)
+
+### 🔵 Defensive Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-4A90E2?style=for-the-badge&logo=elastic&logoColor=white)
+
+### 🛠️ Tools & Cloud
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **Collaboration & Project Management**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### **Security & Penetration Testing Tools**
-![Metasploit](https://img.shields.io/badge/Metasploit-2E8555?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-0051BA?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-### **Cloud & Threat Intelligence Platforms**
-![AWS Security Hub](https://img.shields.io/badge/AWS%20Security%20Hub-FF9900?style=for-the-badge&logoColor=white)
-![Azure Security](https://img.shields.io/badge/Azure%20Security-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-EF3B2D?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 **FLAGSHIP PROJECT: CVE RADAR**
-
-### 📡 **Automated Threat Intelligence & CVE Monitoring System**
-
-**Live Project:** https://cve-radar.nx.kg/
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║  CVE RADAR - Real-time Threat Intelligence Aggregator         ║
-║                                                                ║
-║  📊 Data Source: National Vulnerability Database (NVD/NIST)   ║
-║  🤖 AI-Powered Summarization: TL;DR Generation               ║
-║  📲 Multi-Channel Notifications: Telegram, WhatsApp, Slack    ║
-║  ⚡ Real-time Monitoring: Instant CVE Alerts                 ║
-║  🔍 Advanced Search & Filtering: CVSS Scoring                ║
-║  📈 Trend Analysis: Vulnerability Pattern Recognition         ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-#### **Key Features:**
-- ✅ **Real-time CVE Fetching** - Directly from NVD/NIST database
-- ✅ **AI-Powered Summaries** - Automatic TL;DR generation for each CVE
-- ✅ **Multi-Channel Alerts** - Telegram, WhatsApp, Slack integrations
-- ✅ **CVSS Severity Filter** - Critical, High, Medium, Low classifications
-- ✅ **Threat Intelligence Dashboard** - Visual vulnerability tracking
-- ✅ **Custom Keyword Monitoring** - Track vulnerabilities by software/protocol
-- ✅ **Historical Trend Analysis** - Pattern recognition for threat modeling
-
-#### **Tech Stack:**
-```
-Backend:        Python, FastAPI, BeautifulSoup, Requests
-AI/ML:          OpenAI API, LangChain, NLP
-Database:       MongoDB, Redis
-Notifications:  Telegram Bot API, WhatsApp API, Slack SDK
-Cloud:          AWS (EC2, Lambda, CloudWatch)
-DevOps:         Docker, Docker Compose, GitHub Actions
-Monitoring:     Prometheus, Grafana
-```
-
-#### **Impact:**
-- 🎯 **1000+** CVEs monitored monthly
-- 📢 **Real-time** threat alerts to security teams
-- ⏱️ **<5 minute** detection-to-notification pipeline
-- 🌐 **Global** threat landscape visibility
-
----
-
-## 📚 **RECENT PROJECTS & CONTRIBUTIONS**
-
-### 1. **CVE-2025-61246 - Vulnerability Discovery & Analysis**
-- 🔍 Identified critical vulnerability in [Target System]
-- 📝 Full vulnerability report with PoC (Proof of Concept)
-- 🔐 Responsible disclosure followed
-- 📊 Impact: High severity with widespread implications
-
-### 2. **Threat Intelligence Platform Development**
-- Built scalable threat data aggregation system
-- Integrated multiple threat feeds (OSINT sources)
-- Developed custom YARA rules for malware detection
-- Automated incident response workflows
-
-### 3. **Red Team Assessment & Penetration Testing**
-- Comprehensive network penetration tests
-- Web application security assessments
-- Social engineering campaigns
-- Physical security assessments
-
-### 4. **Security Automation & Scripting**
-- Python-based vulnerability scanning automation
-- Bash scripts for log analysis and incident response
-- Custom tools for exploitation and privilege escalation
-- IaC security scanning (Docker, Kubernetes)
-
----
-
-## 🎯 **EXPERTISE AREAS**
-
-| Area | Description | Tools |
-|------|-------------|-------|
-| **Web Application Security** | OWASP Top 10, API Security, Client-Side Attacks | Burp Suite, OWASP ZAP |
-| **Network Penetration Testing** | Network enumeration, lateral movement, data exfiltration | Metasploit, Nessus, Wireshark |
-| **Vulnerability Management** | CVE assessment, patch management, risk prioritization | Nessus, OpenVAS, Qualys |
-| **Threat Intelligence** | OSINT, vulnerability research, malware analysis | CVE Radar, MITRE ATT&CK |
-| **Incident Response** | Forensics, log analysis, threat hunting, containment | ELK Stack, Splunk |
-| **Cloud Security** | AWS/Azure security, IAM, DLP, compliance | AWS Security Hub, CloudTrail |
-| **Malware Analysis** | Reverse engineering, behavioral analysis, IOC extraction | IDA Pro, Ghidra, Cuckoo |
-
----
-
-## 📖 **KNOWLEDGE SHARING**
-
-### 📝 **Medium Blog**
-Sharing cybersecurity insights, tutorials, and research findings
-
-**Medium Profile:** https://medium.com/@hackergovind
-
-**Topics Covered:**
-- Vulnerability Research & CVE Analysis
-- Penetration Testing Methodologies
-- Threat Intelligence Automation
-- Security Tool Deep Dives
-- Real-world Incident Analysis
-- Cybersecurity Career Guidance
-
----
-
-## 🤝 **CONNECT WITH ME**
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📲 **Get in Touch**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govindpratapsingh404/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hackergovind)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindsinghpratap123@gmail.com)
-[![CVE Radar](https://img.shields.io/badge/CVE%20Radar-FF6B6B?style=for-the-badge&logoColor=white)](https://cve-radar.nx.kg/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/govindpratapsingh404)
-
-**Email:** govindsinghpratap123@gmail.com
-
-**Available For:**
-- 🎯 Freelance Security Assessments
-- 🔍 Vulnerability Research Projects
-- 👥 Security Consulting
-- 📚 Mentoring & Knowledge Sharing
-- 🤝 Collaboration Opportunities
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=govindpratapsingh404&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindpratapsingh404&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff"/>
 
 </div>
-
----
-
-## 📊 **GITHUB STATISTICS**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=govindpratapsingh404&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=govindpratapsingh404&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindpratapsingh404&layout=compact&theme=radical)
+</div>
 
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=govindpratapsingh404&theme=radical)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=govindpratapsingh404&theme=matrix&no-frame=true&row=1&column=6)](https://github.com/govindpratapsingh404)
 
 </div>
 
 ---
 
-## 🎓 **CONTINUOUS LEARNING & ROADMAP**
+## 📈 Contribution Graph
 
-### 2025 Goals & Ongoing Development
+<div align="center">
 
-```
-🔄 IN PROGRESS:
-├─ SEC+ (CompTIA Security+) - Q2 2026
-├─ PNPT (Practical Network Penetration Tester) - Q2 2026
-├─ OSCP (Offensive Security Certified Professional) - Q3 2027
+[![Govind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=govindpratapsingh404&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/govindpratapsingh404)
 
-📚 EXPANSION AREAS:
-├─ Cloud Security (AWS Security, Azure Security)
-├─ Container Security (Docker, Kubernetes)
-├─ API Security & Microservices
-├─ Threat Intelligence Platform Development
-├─ Machine Learning for Cybersecurity
-└─ AI-Powered Threat Detection Systems
+</div>
+
+---
+
+## 🌐 Threat Intelligence & Research
+
+```python
+class GovindSingh:
+    def __init__(self):
+        self.name = "Govind Pratap Singh"
+        self.alias = "hackergovind"
+        self.specialization = ["Penetration Testing", "Threat Intelligence", "CVE Research"]
+        self.achievements = {
+            "CVE": "CVE-2025-61246 (Author & Finder)",
+            "HoF": "NASA Hall of Fame"
+        }
+        self.certifications = ["eJPT", "CRTA", "ICCA", "Google Cybersecurity"]
+        self.currently_pursuing = ["PNPT", "SEC+"]
+        self.projects = ["CVE Radar — cve-radar.nx.kg"]
+    
+    def get_motto(self):
+        return "Think like an attacker. Defend like a guardian. 🛡️"
 ```
 
 ---
 
-## 💡 **PHILOSOPHY & APPROACH**
+## 📬 Let's Connect
 
-> *"Security is not a destination, it's a continuous journey. Every vulnerability discovered is an opportunity to learn, every threat identified is a lesson in resilience."*
+<div align="center">
 
-**My Core Principles:**
-- 🎯 **Ethical Excellence** - Always operate within legal and ethical boundaries
-- 🔍 **Continuous Learning** - Stay ahead of emerging threats
-- 🤝 **Knowledge Sharing** - Empower the cybersecurity community
-- ⚡ **Rapid Response** - Quick thinking and effective problem-solving
-- 🛡️ **Defense First** - Protect what matters most
+| Platform | Link |
+|:---:|:---:|
+| 💼 **LinkedIn** | [govindpratapsingh404](https://www.linkedin.com/in/govindpratapsingh404/) |
+| ✍️ **Medium** | [@hackergovind](https://medium.com/@hackergovind) |
+| 📧 **Email** | govindsinghpratap123@gmail.com |
+| 🛰️ **CVE Radar** | [cve-radar.nx.kg](https://cve-radar.nx.kg/) |
 
----
-
-## 🏅 **CERTIFICATIONS VERIFICATION**
-
-All certifications listed above have been earned through:
-- ✅ Official examination and assessment
-- ✅ Hands-on practical demonstrations
-- ✅ Compliance with industry standards
-- ✅ Continuous professional development
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 **"Making the Digital World Safer, One Vulnerability at a Time"** 🌟
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=100&section=footer&animation=twinkling"/>
 
----
+**"The quieter you become, the more you can hear."**
 
-**Last Updated:** 2025
-**Profile Status:** 🟢 Active & Available
-**Current Focus:** Advanced Threat Intelligence & Penetration Testing
-
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=govindpratapsingh404)](https://github.com/govindpratapsingh404)
+![Visitor Badge](https://img.shields.io/badge/Thanks_for_visiting-00FF41?style=for-the-badge)
 
 </div>
-
----
-
-## 📄 **LICENSE & CREDITS**
-
-This profile README is open-source and designed to help showcase cybersecurity expertise professionally.
-
----
-
-> *"In cybersecurity, knowledge is power. Share it wisely."* 🔐
-
-```
