@@ -19,8 +19,8 @@
 
 **Certified Ethical Hacker | Threat Intelligence Specialist | Penetration Tester | Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=govindpratapsingh404&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/govindpratapsingh404?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=hackergovind&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/hackergovind?style=social)
 
 ---
 
