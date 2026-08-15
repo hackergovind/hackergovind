@@ -15,7 +15,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=govindpratapsingh404&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/govindpratapsingh404?label=Followers&style=social)](https://github.com/govindpratapsingh404)
+[![GitHub followers](https://img.shields.io/github/followers/hackergovind?label=Followers&style=social)](https://github.com/govindpratapsingh404)
 
 </div>
 
