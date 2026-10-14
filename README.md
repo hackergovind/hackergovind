@@ -1,7 +1,7 @@
 <!-- GitHub Profile README — Govind Pratap Singh -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&text=Govind%20Pratap%20Singh&fontAlign=50&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%7C%20Security%20Researcher&descAlign=50&descAlignY=58&fontColor=00E701&color=0B0E0F" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&text=Govind%20Pratap%20Singh&fontAlign=50&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI-Gen%20Powered%20%7C%20Security%20Researcher&descAlign=50&descAlignY=58&fontColor=00E701&color=0B0E0F" />
 </p>
 
 <p align="center">
@@ -13,21 +13,13 @@
 ---
 
 ## ⚡ Overview
-I’m **Govind Pratap Singh** — a **Senior Full-Stack Developer** with a security-first mindset.
+I’m **Govind Pratap Singh** — a **Full-Stack Developer** building AI-gen-powered products with a security-first mindset.
 I keep a minimal personal footprint by design — judge the work, not the profile.
 
-- Architecture, performance, scalability, and production reliability
+- Full-stack product development across frontend, backend, APIs, and cloud infrastructure
+- AI-gen-powered applications, automation, intelligent workflows, and developer tooling
 - Security engineering, secure-by-design development, and ethical research
-- Clean DX, automation, observability, and hardened deployments
-
----
-
-## 🔥 Active Project
-### 🍦 Vanilla DNS (Vanilla DNS / Vanilla App)
-**Vanilla DNS** — a connectivity & DNS layer project focused on reliability and resilience.
-
-- Website: `https://vanillapp.ir`
-- Focus: stability, privacy-aware design, operational discipline, and smooth UX
+- Performance, scalability, observability, and production reliability
 
 ---
 
@@ -37,6 +29,12 @@ I keep a minimal personal footprint by design — judge the work, not the profil
 - Performance tuning, profiling, caching strategy, async workloads
 - Clean architecture, testing strategy, refactoring & maintainability
 - Observability: logs, metrics, traces, alerting & incident readiness
+
+### 🤖 AI-Gen-Powered Development
+- LLM-powered applications and AI-assisted product features
+- Prompt engineering, structured outputs, RAG, and intelligent automation
+- LangChain-based workflows, agents, tool calling, and orchestration
+- AI integration across web applications, APIs, and developer tools
 
 ### 🛡️ Security Engineering (Ethical)
 - Secure architecture, threat modeling, hardening, and secure defaults
@@ -53,30 +51,26 @@ I keep a minimal personal footprint by design — judge the work, not the profil
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=777BB4)
-![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![CSharp](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=239120)
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-111?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Backend / Frameworks
+### AI / LLM / Backend
+![OpenAI](https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge&logo=chainlink&logoColor=00E701)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-111?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-111?style=for-the-badge&logo=fastify&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Symfony](https://img.shields.io/badge/Symfony-111?style=for-the-badge&logo=symfony&logoColor=white)
-![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django&logoColor=092E20)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi&logoColor=009688)
-![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![Spring](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring&logoColor=6DB33F)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-111?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-111?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
 ![Svelte](https://img.shields.io/badge/Svelte-111?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Tailwind](https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
@@ -85,7 +79,6 @@ I keep a minimal personal footprint by design — judge the work, not the profil
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis&logoColor=DC382D)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
 ![Kafka](https://img.shields.io/badge/Kafka-111?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elastic-111?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 
@@ -107,26 +100,30 @@ I keep a minimal personal footprint by design — judge the work, not the profil
 
 ## 📊 GitHub Analytics
 
-<!-- Streak Stats - Using stable instance -->
 <p align="center">
-  <a href="https://github.com/hackergovind"><img src="https://github-readme-streak-stats-eight.vercel.app?user=hackergovind&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00E701&ring=00E701&fire=00E701&currStreakLabel=00E701" /></a>
+  <a href="https://github.com/hackergovind">
+    <img src="https://github-readme-streak-stats.demolab.com?user=hackergovind&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00E701&ring=00E701&fire=00E701&currStreakLabel=00E701" alt="GitHub streak" />
+  </a>
 </p>
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- Requires the repository's snake workflow to generate the SVG files in the output branch. -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackergovind/hackergovind/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackergovind/hackergovind/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hackergovind/hackergovind/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackergovind/hackergovind/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackergovind/hackergovind/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hackergovind/hackergovind/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 ---
 
 ## 🧭 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackergovind&bg_color=0B0E0F&color=00E701&line=00E701&point=00E701&area=true&area_color=00E701&hide_border=true" />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackergovind&custom_title=Govind%27s%20Contribution%20Graph&bg_color=0B0E0F&color=00E701&line=00E701&point=FFFFFF&area=true&area_color=00E701&hide_border=true" alt="Govind's GitHub activity graph" />
+</p>
 
 ---
 
